@@ -1,49 +1,44 @@
-#  Mini JavaScript Projects
+# 🚀 Mini JavaScript Projects
 
-A curated collection of beginner-friendly to intermediate **JavaScript mini-projects** designed for learning, experimentation, and fun! Each project sharpens your skills in DOM manipulation, user interaction, and application logic.
-
----
-
-##  Projects Included
-
-| #  | Project Name                        |
-|----|-------------------------------------|
-| 1  | BMI Calculator                      |
-| 2  | Quotes Generator                    |
-| 3  | Background Color Switcher           |
-| 4  | Loan EMI Calculator                 |
-| 5  | Calculator App                      |
-| 6  | Digital Date & Time                 |
-| 7  | Birthday Countdown App              |
-| 8  | Typing Word Counter                 |
-| 9  | Form Data with Local Storage        |
-| 10 | Popup Alert                         |
-| 11 | Tags App                            |
-| 12 | Letters Hover Effect                |
-| 13 | Star Rating App                     |
-| 14 | Password Generator                  |
-| 15 | Coin Flip App                       |
-| 16 | Prompt Greeting App                 |
+A collection of beginner-friendly to intermediate **JavaScript projects** built for learning and practice.  
+Each project is simple, interactive, and helps strengthen core JS concepts like DOM manipulation, events, local storage, and logic building.
 
 ---
 
-##  Tech Stack
+## 📂 Project List
 
-- **HTML5** for structure  
-- **CSS3** for styling  
-- **JavaScript (Vanilla)** for interactivity  
-
-No frameworks—just pure, stripped-back development.
+1. **BMI Calculator**
+2. **Quotes Generator**
+3. **Background Color Switcher**
+4. **Loan EMI Calculator**
+5. **Calculator App**
+6. **Digital Date & Time**
+7. **Birthday Countdown App**
+8. **Typing Word Counter**
+9. **Form Data with Local Storage**
+10. **Popup Alert**
+11. **Tags App**
+12. **Letters Hover Effect**
+13. **Star Rating App**
+14. **Password Generator**
+15. **Coin Flip App**
+16. **Prompt Greeting App**
 
 ---
 
-##  Getting Started
+## 🛠️ Tech Stack
 
-To explore and run these projects locally:
+- **HTML5**
+- **CSS3**
+- **JavaScript (Vanilla JS)**
 
-1. **Clone the repo**
+---
 
+## ⚡ Getting Started
+
+To run any project locally:
+
+1. Clone this repository:
    ```bash
    git clone https://github.com/dmw14/Mini-JavaScript-Projects.git
    cd Mini-JavaScript-Projects
-
